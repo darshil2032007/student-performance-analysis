@@ -26,6 +26,7 @@ The analysis evaluates student achievement across **Mathematics, Reading, and Wr
 - NumPy  
 - Pandas  
 - Matplotlib  
+- Seaborn
 - Jupyter Notebook / Google Colab  
 
 ---
