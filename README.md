@@ -33,7 +33,7 @@ The analysis evaluates student achievement across **Mathematics, Reading, and Wr
 
 ## 📊 Score Distribution
 
-![Score Distribution](images\score_distribution.png)
+![Score Distribution](images/score_distribution.png)
 
 **Insight:**  
 Math scores show greater variability, while Reading and Writing cluster toward higher ranges.
@@ -72,7 +72,7 @@ Students completing test preparation courses consistently achieve higher scores.
 ![Parental Influence](images/parental_level_education.png)
 
 **Insight:**  
-Students with higher parental education levels generally achieve better academic scores.
+Students with higher parental education levels generally achieve better academic score.
 
 ---
 
